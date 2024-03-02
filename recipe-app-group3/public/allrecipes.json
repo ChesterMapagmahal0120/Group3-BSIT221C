@@ -1,0 +1,303 @@
+[
+    {
+      "title": "Pork Adobo",
+      "description": "A flavorful Filipino dish featuring tender pork in a savory soy-vinegar sauce.",
+      "image": "/images/adobo.png",
+      "category": "Family-Friendly Favorites",
+      "ingredients": [
+        "2 lbs pork belly, cut into cubes",
+        "1 cup soy sauce",
+        "1 cup vinegar",
+        "4 cloves garlic, minced",
+        "1 teaspoon peppercorns",
+        "2 bay leaves",
+        "1 tablespoon cooking oil",
+        "1 cup water"
+      ],
+      "instructions": [
+        "In a bowl, marinate pork with soy sauce, vinegar, garlic, and peppercorns for 30 minutes.",
+        "Heat oil in a pan over medium heat. Add marinated pork and cook until browned.",
+        "Pour in the marinade, add bay leaves, and simmer for 10 minutes.",
+        "Add water and continue simmering until pork is tender and the sauce thickens.",
+        "Serve hot with steamed rice. Enjoy your delicious Pork Adobo!"
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "40 minutes",
+      "total_time": "55 minutes",
+      "serving_size": "4",
+      "calories_per_serving": "420",
+      "difficulty_level": "Intermediate"
+    },
+  
+    {
+      "title": "Chicken Sinigang",
+      "description": "A sour tamarind soup with tender chicken and a medley of vegetables.",
+      "image": "/images/ChickenSinigang.png",
+      "category": "One-Pot Wonders",
+      "ingredients": [
+        "2 lbs chicken, cut into serving pieces",
+        "1 packet sinigang mix",
+        "1 large onion, sliced",
+        "2 tomatoes, quartered",
+        "1 daikon radish, sliced",
+        "1 eggplant, sliced",
+        "1 bunch string beans, cut into 2-inch pieces",
+        "Salt and pepper to taste",
+        "Water"
+      ],
+      "instructions": [
+        "Boil chicken in water until cooked. Add sinigang mix, onions, and tomatoes.",
+        "Stir in radish and eggplant. Simmer until vegetables are tender.",
+        "Add string beans, salt, and pepper. Simmer for an additional 5 minutes.",
+        "Serve hot and enjoy the comforting Chicken Sinigang!"
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "50 minutes",
+      "serving_size": "6",
+      "calories_per_serving": "320",
+      "difficulty_level": "Intermediate"
+    },
+  
+    {
+      "title": "Beef Caldereta",
+      "description": "A rich and spicy beef stew cooked in tomato sauce and liver spread.",
+      "image": "/images/BeefCaldereta.png",
+      "category": "Family-Friendly Favorites",
+      "ingredients": [
+        "2 lbs beef stew meat",
+        "1 cup tomato sauce",
+        "1/2 cup liver spread",
+        "3 potatoes, diced",
+        "2 carrots, sliced",
+        "1 bell pepper, chopped",
+        "1 cup green olives",
+        "4 cloves garlic, minced",
+        "1 onion, chopped",
+        "Cooking oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Sauté garlic and onion in oil. Add beef and brown on all sides.",
+        "Pour in tomato sauce, liver spread, and enough water to cover the meat. Simmer until beef is tender.",
+        "Add potatoes, carrots, bell pepper, and olives. Cook until vegetables are done.",
+        "Season with salt and pepper. Serve hot and savor the hearty Beef Caldereta!"
+      ],
+      "prep_time": "25 minutes",
+      "cook_time": "1 hour",
+      "total_time": "1 hour 25 minutes",
+      "serving_size": "8",
+      "calories_per_serving": "450",
+      "difficulty_level": "Intermediate"
+    },
+  
+    {
+      "title": "Bangus Belly Bistek",
+      "description": "Tender milkfish belly slices cooked in a tangy soy-citrus sauce.",
+      "image": "/images/BangusBellyBistek.png",
+      "category": "Quick & Easy Meals",
+      "ingredients": [
+        "1 lb bangus belly slices",
+        "1/2 cup soy sauce",
+        "1/4 cup calamansi juice",
+        "2 tablespoons oyster sauce",
+        "1 large onion, rings separated",
+        "4 cloves garlic, minced",
+        "1 teaspoon sugar",
+        "Cooking oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Marinate bangus belly in soy sauce, calamansi juice, oyster sauce, and sugar for 30 minutes.",
+        "Sauté garlic and onion in oil. Add marinated bangus belly and cook until fish is opaque.",
+        "Season with salt and pepper. Serve with steamed rice. Enjoy Bangus Belly Bistek!"
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "35 minutes",
+      "serving_size": "4",
+      "calories_per_serving": "380",
+      "difficulty_level": "Easy"
+    },
+    
+    {
+      "title": "Laing",
+      "description": "A spicy Bicolano dish featuring dried taro leaves and coconut milk.",
+      "image": "/images/laing.png",
+      "category": "Healthy & Tasty",
+      "ingredients": [
+        "2 cups dried taro leaves",
+        "1 cup coconut milk",
+        "1/2 lb pork belly, sliced",
+        "4 dried red chilies",
+        "3 cloves garlic, minced",
+        "1 onion, chopped",
+        "2 tablespoons ginger, sliced",
+        "Cooking oil",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Sauté garlic, onion, and ginger in oil. Add pork belly and cook until browned.",
+        "Add dried taro leaves and dried chilies. Pour in coconut milk and simmer until leaves are tender.",
+        "Season with salt. Serve hot and experience the spicy goodness of Laing!"
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "40 minutes",
+      "serving_size": "6",
+      "calories_per_serving": "300",
+      "difficulty_level": "Intermediate"
+    },
+  
+    {
+      "title": "Tinolang Manok",
+      "description": "A comforting chicken soup infused with ginger and green papaya.",
+      "image": "/images/TinolangManok.png",
+      "category": "One-Pot Wonders",
+      "ingredients": [
+        "2 lbs chicken, cut into serving pieces",
+        "1 green papaya, peeled and sliced",
+        "1 thumb-sized ginger, sliced",
+        "1 onion, sliced",
+        "3 cloves garlic, minced",
+        "1 tablespoon fish sauce",
+        "4 cups water",
+        "1 cup malunggay leaves (moringa)",
+        "Cooking oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Sauté garlic, ginger, and onion in oil. Add chicken and cook until lightly browned.",
+        "Pour in water and fish sauce. Simmer until chicken is tender.",
+        "Add green papaya slices and malunggay leaves. Cook until vegetables are done.",
+        "Season with salt and pepper. Serve hot and enjoy the soothing Tinolang Manok!"
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "30 minutes",
+      "total_time": "50 minutes",
+      "serving_size": "6",
+      "calories_per_serving": "280",
+      "difficulty_level": "Easy"
+    },
+  
+    {
+      "title": "Pancit Canton",
+      "description": "A stir-fried noodle dish loaded with colorful vegetables and meat.",
+      "image": "/images/PancitCanton.png",
+      "category": "Quick & Easy Meals",
+      "ingredients": [
+        "1 lb pancit canton noodles",
+        "1/2 lb chicken breast, sliced",
+        "1/2 lb pork, thinly sliced",
+        "1 cup shrimp, peeled and deveined",
+        "1 cup snow peas",
+        "1 carrot, julienned",
+        "1/2 cabbage, shredded",
+        "1 onion, sliced",
+        "4 cloves garlic, minced",
+        "1/4 cup soy sauce",
+        "2 tablespoons oyster sauce",
+        "Cooking oil"
+      ],
+      "instructions": [
+        "Cook pancit canton noodles according to package instructions. Set aside.",
+        "Sauté garlic and onion in oil. Add chicken, pork, and shrimp; cook until meat is done.",
+        "Add snow peas, carrot, cabbage, soy sauce, and oyster sauce. Stir-fry until vegetables are tender-crisp.",
+        "Toss in cooked pancit canton noodles. Mix well and serve hot!"
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "15 minutes",
+      "total_time": "35 minutes",
+      "serving_size": "4",
+      "calories_per_serving": "350",
+      "difficulty_level": "Easy"
+    },
+  
+    {
+      "title": "Lechon Kawali",
+      "description": "Crispy deep-fried pork belly served with a side of liver sauce.",
+      "image": "/images/LechonKawali.png",
+      "category": "Budget-Friendly Bites",
+      "ingredients": [
+        "2 lbs pork belly, slab or sliced",
+        "4 cups water",
+        "1 tablespoon salt",
+        "1 teaspoon peppercorns",
+        "4 cloves garlic, minced",
+        "Cooking oil, for deep frying",
+        "Liver sauce, for dipping"
+      ],
+      "instructions": [
+        "Boil pork belly in water with salt, peppercorns, and garlic until tender.",
+        "Remove pork from the pot and air-dry for a few hours or overnight in the refrigerator.",
+        "Heat oil in a deep fryer or heavy pan. Deep-fry pork until golden and crispy.",
+        "Serve hot with liver sauce on the side. Enjoy the crunchy goodness of Lechon Kawali!"
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "1 hour",
+      "total_time": "1 hour 15 minutes",
+      "serving_size": "6",
+      "calories_per_serving": "480",
+      "difficulty_level": "Intermediate"
+    },
+  
+    {
+      "title": "Ginataang Kalabasa at Hipon",
+      "description": "A creamy and savory Filipino dish with squash and shrimp in coconut milk.",
+      "image": "/images/GinataangKalabasaatHipon.png",
+      "category": "Healthy & Tasty",
+      "ingredients": [
+        "2 cups kalabasa (squash), cubed",
+        "1/2 lb shrimp, peeled and deveined",
+        "1 cup coconut milk",
+        "1 onion, chopped",
+        "3 cloves garlic, minced",
+        "1 thumb-sized ginger, sliced",
+        "2 pieces green chili peppers",
+        "Cooking oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Sauté garlic, ginger, and onion in oil. Add shrimp and cook until pink.",
+        "Add kalabasa cubes and coconut milk. Simmer until squash is tender.",
+        "Throw in green chili peppers. Season with salt and pepper.",
+        "Serve hot and enjoy the rich flavors of Ginataang Kalabasa at Hipon!"
+      ],
+      "prep_time": "20 minutes",
+      "cook_time": "25 minutes",
+      "total_time": "45 minutes",
+      "serving_size": "4",
+      "calories_per_serving": "300",
+      "difficulty_level": "Easy"
+    },
+  
+    {
+      "title": "Bibingka",
+      "description": "A traditional Filipino rice cake made with coconut milk and salted duck eggs.",
+      "image": "/images/Bibingka.png",
+      "category": "Family-Friendly Favorites",
+      "ingredients": [
+        "2 cups rice flour",
+        "1 cup coconut milk",
+        "1 cup sugar",
+        "1/2 cup butter, melted",
+        "2 teaspoons baking powder",
+        "3 salted duck eggs, sliced",
+        "Grated coconut for topping"
+      ],
+      "instructions": [
+        "Preheat oven to 350°F (175°C). Grease a baking pan and line with banana leaves, if available.",
+        "In a bowl, combine rice flour, coconut milk, sugar, melted butter, and baking powder. Mix well.",
+        "Pour the batter into the prepared pan. Top with sliced salted duck eggs and grated coconut.",
+        "Bake for 30-40 minutes or until a toothpick inserted comes out clean.",
+        "Slice and serve warm. Enjoy the deliciousness of Bibingka!"
+      ],
+      "prep_time": "15 minutes",
+      "cook_time": "35 minutes",
+      "total_time": "50 minutes",
+      "serving_size": "8",
+      "calories_per_serving": "250",
+      "difficulty_level": "Intermediate"
+    }
+    
+  ]
