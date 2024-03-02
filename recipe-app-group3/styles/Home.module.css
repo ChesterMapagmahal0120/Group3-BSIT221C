@@ -1,13 +1,23 @@
 .main{
-  height: 100vh;
-  width: 100%;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
+  justify-content: center;
+}
+
+.abouttitle{
+  padding: 3%;
+}
+
+.abouttitle h1{
+  color: #ffd61e;
 }
 
 .navbarbg{
+  background-color: var(--bs-bg);
+}
+
+.footerbg{
   background-color: var(--bs-bg);
 }
 
@@ -37,7 +47,7 @@
 }
 
 .Features {
-  height: 100vh;
+  height: 89%;
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -59,7 +69,7 @@
 }
 
 .featureswrapper {
-  width: 500vw;
+  width: 300vw;
   height: 100%;
   display: flex;
   transition: all 1.5s ease-in-out;
@@ -72,29 +82,30 @@
 }
 
 @media screen and (max-width: 768px) {
+  .Features {
+    height: 93%;
+    bottom: 0;
+  }
 
   .arrowContainer {
     width: 15%;
   }
-
+  
 }
 
 @media screen and (max-width: 480px) {
-
-  .Features{
-    height: 480px;
-    top: 0;
+  .Features {
+    height: 93%;
+    bottom: 0;
   }
 
   .arrowContainer {
     width: 20%;
   }
 
-  .imgContainer {
-    width: 100vw;
-    height: 100%;
-    position: relative;
-  }
+
 }
+
+
 
 
