@@ -168,7 +168,7 @@ class MenuExampleTabularOnTop extends Component {
         <Modal open={isRecipeModalOpen} onClose={this.closeRecipeModal} >
           <ModalHeader>{selectedRecipe?.title}</ModalHeader>
           <ModalContent>
-            <Image size='small' src={selectedRecipe?.image} wrapped />
+            <Image size='small' src={selectedRecipe?.image} wrapped /> 
             <ModalDescription>
               <p>{selectedRecipe?.description}</p>
               <strong>Ingredients:</strong>
